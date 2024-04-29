@@ -1,4 +1,6 @@
 ### Hi there 👋
+My name is Gillian, and I'm currently a first-year at Northeastern University studying Computer Science.
+Contact: palmer.gi@northeastern.edu
 
 <!--
 **gpalmer27/gpalmer27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
