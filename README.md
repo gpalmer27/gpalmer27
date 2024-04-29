@@ -1,5 +1,6 @@
 ### Hi there 👋
 My name is Gillian, and I'm currently a first-year at Northeastern University studying Computer Science.
+
 Contact: palmer.gi@northeastern.edu
 
 <!--
