@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Gillian, and I'm currently a first-year at Northeastern University studying Computer Science.
+My name is Gillian, and I'm currently a second-year at Northeastern University studying Computer Science with a Software concentration.
 
 Contact: palmer.gi@northeastern.edu
 
