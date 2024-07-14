@@ -3,7 +3,8 @@ My name is Gillian, and I'm currently a second-year at Northeastern University s
 
 Contact: palmer.gi@northeastern.edu
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gpalmer27)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gpalmer27&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <!--
