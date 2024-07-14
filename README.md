@@ -3,6 +3,8 @@ My name is Gillian, and I'm currently a second-year at Northeastern University s
 
 Contact: palmer.gi@northeastern.edu
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gpalmer27)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **gpalmer27/gpalmer27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
