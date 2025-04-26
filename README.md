@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Gillian, and I'm currently a second-year at Northeastern University studying Computer Science with a Software concentration.
+My name is Gillian, and I'm currently a second-year student at Northeastern University studying Computer Science with a Software concentration and minor in Mathematics.
 
 Contact: palmer.gi@northeastern.edu
 
